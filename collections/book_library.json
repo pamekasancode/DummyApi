@@ -1,0 +1,38 @@
+{
+    "data" : [
+        {
+            "title" : "Harry Potter and the cursed child",
+            "author" : "Jack Throne",
+            "genre" : "Adventure, Drama, Fantasy",
+            "publication_date" : "July 30, 2016",
+            "publication_place" : "Palace Theatre, London",
+            "pages" : "103 Pages",
+            "status" : "not loaned"
+        },
+        
+        {
+            "title" : "The Hobbit, or There and Back Again",
+            "author" : "J. R. R. Tolkien",
+            "genre" : "High fantasy, Juvenile fantasy",
+            "publication_date" : "21 September 1937",
+            "pages" : "310 Pages",
+            "status" : "loaned"
+        },
+        {
+            "title" : "The Hobbit, or There and Back Again",
+            "author" : "J. R. R. Tolkien",
+            "genre" : "High fantasy, Juvenile fantasy",
+            "publication_date" : "21 September 1937",
+            "pages" : "310 Pages",
+            "status" : "loaned"
+        },
+        {
+            "title" : "The Hobbit, or There and Back Again",
+            "author" : "J. R. R. Tolkien",
+            "genre" : "High fantasy, Juvenile fantasy",
+            "publication_date" : "21 September 1937",
+            "pages" : "310 Pages",
+            "status" : "loaned"
+        }
+    ]
+}
