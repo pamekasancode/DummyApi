@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-JSON_BASE_DIR = Path(Path.cwd(), "collections")
+JSON_BASE_DIR = Path(Path(__file__).parent.parent.resolve(), "collections")
 
 def parse_from_json(name):
     try:
