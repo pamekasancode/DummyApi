@@ -5,7 +5,7 @@ from os.path import isfile, isdir
 from os import mkdir
 
 
-BASE_PATH = Path(__file__).parent.parent.parent.parent.resolve()
+BASE_PATH = Path(__file__).parent.parent.resolve()
 
 
 
