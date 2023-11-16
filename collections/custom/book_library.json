@@ -1,5 +1,4 @@
-{
-    "data" : [
+[
         {
             "title" : "Harry Potter and the cursed child",
             "author" : "Jack Throne",
@@ -34,5 +33,4 @@
             "pages" : "310 Pages",
             "status" : "loaned"
         }
-    ]
-}
+]

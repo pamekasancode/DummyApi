@@ -19,4 +19,3 @@ def parse_from_json(*paths):
 
 
 
-
